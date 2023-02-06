@@ -1,8 +1,7 @@
 # Lab Project - Python Fundamentals
 
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50px" align="center">
-<a href="https://www.dio.me/certificate/E0635200 target="_blank"> Project Certificate</a> -
-<a href="https://www.dio.me/certificate/FD512AD1f" target="_blank">Course Certificate</a> -
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="50px" align="center"> <a href="https://www.dio.me/certificate/E0635200"> Project Certificate</a> -
+<a href="https://www.dio.me/certificate/FD512AD1">Course Certificate</a> -
 <a href="https://github.com/icsalgado/lab_FundmentosPython/blob/master/LabDesafioPyFundamentos.pdf" target="_blank">Challenge</a>
 
 <br>
